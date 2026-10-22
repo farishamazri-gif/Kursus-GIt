@@ -1,2 +1,4 @@
 Ini line satu
 ini line dua
+ini line tiga
+Takde line
